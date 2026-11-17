@@ -1,0 +1,17 @@
+pip install mysql-connector-python bcrypt
+
+cpfs:
+
+12345678910
+12345678911
+12345678912
+
+
+
+senhas:
+
+Heloísa: senha é Heloísa
+
+Caetano: senha é Caetano
+
+Daniel: senha é Daniel
